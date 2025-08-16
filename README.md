@@ -42,7 +42,7 @@ This project implements an **image classification system** trained on a Kaggle d
 
 ## 🌐 Streamlit Deployment
 This project is deployed with **Streamlit**.  
-You can run it locally or try it online (if deployment link is available, add it here).  
+You can run it locally or try it online (https://smritirangarajan-eye-disease-detection-app-hj7ofx.streamlit.app/).  
 
 **Run locally:**
 ```bash
