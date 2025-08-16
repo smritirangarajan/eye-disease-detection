@@ -8,7 +8,7 @@ This project implements an **image classification system** trained on a Kaggle d
 
 ## 🚀 Project Overview
 - **Dataset**: Retina images from Kaggle ([link](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct))  
-- **Model Architecture**: Transfer Learning with **MobileNetV3**  
+- **Model Architecture**: **MobileNetV3**  
 - **Frameworks**: TensorFlow, Keras, scikit-learn, Streamlit  
 - **Web App**: Built with Streamlit (deployed live ✅)  
 - **Features**:
