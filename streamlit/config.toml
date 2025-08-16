@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[theme]
+base="dark"
+primaryColor="#22d3ee"      # cyan-400 accent
+backgroundColor="#0b1220"   # deep slate
+secondaryBackgroundColor="#111827"
+textColor="#e5e7eb"         # slate-200
+font="sans serif"
