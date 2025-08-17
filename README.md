@@ -13,7 +13,7 @@ This project implements an **image classification system** trained on a Kaggle d
 - **Web App**: Built with Streamlit (deployed live ✅)  
 - **Features**:
   - Preprocessing of training and validation data  
-  - Model training with transfer learning  
+  - Model training
   - Evaluation (accuracy, precision, recall, F1-score, confusion matrix)  
   - Prediction web interface (upload retina image → get disease prediction)  
   - Recommendation feature (basic guidance based on prediction)  
